@@ -9,3 +9,5 @@
 如有其他需要请点击右上方GitHub，进入Issues内添加反馈哦！
 
 [Issues](https://github.com/HuYihe2008/JamYido-docs/issues)
+
+还请记得添加Labels以标注请求分类

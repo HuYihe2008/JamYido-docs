@@ -1,0 +1,21 @@
+# Copyright (c) 2016-2020 Martin Donath <martin.donath@squidfunk.com>
+
+# Project information
+site_name: JamYido文档中心
+site_url: https://doc.jamyido.top
+site_author: JamYido
+
+# Repository
+repo_name: HuYihe2008/JamYido-docs
+repo_url: git@github.com:HuYihe2008/JamYido-docs.git
+edit_uri: ""
+
+# Configuration
+theme:
+  name: material
+  custom_dir: overrides
+
+# Customization
+extra:
+  version:
+    provider: mike

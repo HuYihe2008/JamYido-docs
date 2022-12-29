@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# 欢迎来到JamYido文档中心
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full documentation visit [JamYido社区](https://www.jamyido.top).
 
 ## Commands
 

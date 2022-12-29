@@ -1,17 +1,5 @@
 # 欢迎来到JamYido文档中心
 
-For full documentation visit [JamYido社区](https://www.jamyido.top).
+## 主要内容介绍
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+本文档主要向用户介绍JamYido社区各个站点使用方法以及介绍
